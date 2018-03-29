@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 3.10.84-Dominator Kernel Configuration
+# Linux/arm64 3.10.84 Kernel Configuration
 #
 CONFIG_ARM64=y
 CONFIG_64BIT=y
@@ -3778,7 +3778,7 @@ CONFIG_NLS_ISO8859_1=y
 # CONFIG_NLS_MAC_TURKISH is not set
 # CONFIG_NLS_UTF8 is not set
 # CONFIG_DLM is not set
-CONFIG_ALESSA_PLUG=y
+# CONFIG_ALESSA_PLUG is not set
 # CONFIG_VIRTUALIZATION is not set
 
 #
